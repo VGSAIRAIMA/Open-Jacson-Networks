@@ -58,6 +58,6 @@ else:
 print("----------------------------------------------------------------------")
 ```
 ## Output
-![alt text](output6.png)
+![alt text](expt6.png)
 ## Result
 Hence the problem is solved and obtained output with Python
